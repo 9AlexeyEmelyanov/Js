@@ -1,5 +1,5 @@
 def main():
-    print("Первые 10 чисел")
+    print("Первые 10 чисел -----")
     print("Последовательности Фибоначчи")
     for number in range (1, 11):
         print(fib(number))
